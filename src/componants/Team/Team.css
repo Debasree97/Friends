@@ -1,0 +1,12 @@
+.body-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.team-member-container {
+  padding: 30px;
+}
+
+.select-member-container {
+  margin-right: 2px dotted lightgray;
+}

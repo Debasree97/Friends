@@ -1,0 +1,110 @@
+[
+  {
+    "list_id": 1,
+    "name": "Jennifer Aniston",
+    "role": "Actress",
+    "age": 52,
+    "salary": 329500,
+    "netWorth": "$300 million",
+    "img": "https://www.closerweekly.com/wp-content/uploads/2018/06/Jennifer-Aniston-net-worth2.jpg?w=683&resize=800%2C1200"
+  },
+  {
+    "list_id": 2,
+    "name": "Courteney Cox",
+    "role": "Actress",
+    "age": 57,
+    "salary": 299350,
+    "netWorth": "$280 million",
+    "img": "https://img.wallpapersafari.com/tablet/800/1280/47/13/dN4Q1M.jpg"
+  },
+  {
+    "list_id": 3,
+    "name": "Lisa Kudrow",
+    "role": "Actress",
+    "age": 58,
+    "salary": 306600,
+    "netWorth": "$265 million",
+    "img": "https://www.theplace2.ru/cache/archive/lisa_kudrow/img/46570_100215_1-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg"
+  },
+  {
+    "list_id": 4,
+    "name": "Matt LeBlanc",
+    "role": "Actor",
+    "age": 54,
+    "salary": 252500,
+    "netWorth": "$270 million",
+    "img": "https://www.theplace2.ru/cache/archive/matt_leblanc/img/mat029qt2-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg"
+  },
+  {
+    "list_id": 5,
+    "name": "Matthew Perry",
+    "role": "Actor",
+    "age": 55,
+    "salary": 195000,
+    "netWorth": "$195 million",
+    "img": "https://imgix.bustle.com/uploads/getty/2021/4/11/20000049-cbb9-4b2e-9725-19fbbf6fe4bb-getty-673807626.jpg?w=800&fit=crop&crop=focalpoint&auto=format%2Ccompress&fp-x=0.6049382716049383&fp-y=0.3695652173913043"
+  },
+  {
+    "list_id": 6,
+    "name": "David Schwimmer",
+    "role": "Actor",
+    "age": 48,
+    "salary": 320500,
+    "netWorth": "$260 million",
+    "img": "https://alchetron.com/cdn/david-schwimmer-7888733a-0261-49a1-a407-92c648bc27c-resize-750.jpg"
+  },
+  {
+    "list_id": 7,
+    "name": "Michael Skloff",
+    "role": "Music Composer",
+    "age": 59,
+    "salary": 44950,
+    "netWorth": "$95 million",
+    "img": "https://pbs.twimg.com/profile_images/1267479042468372481/fc3-qb31_400x400.jpg"
+  },
+  {
+    "list_id": 8,
+    "name": "Allee Willis",
+    "role": "Music Composer",
+    "age": 61,
+    "salary": 32950,
+    "netWorth": "$110 million",
+    "img": "https://m.media-amazon.com/images/M/MV5BOGQ2ZDcyOTQtZjdkZS00MTA3LWE3MjEtOWE2M2IzMjYzZjA4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg"
+  },
+  {
+    "list_id": 9,
+    "name": "David Crane",
+    "role": "Executive Producers",
+    "age": 67,
+    "salary": 329000,
+    "netWorth": "$250 million",
+    "img": "https://fr.web.img6.acsta.net/pictures/20/02/11/14/54/3001678.jpg"
+  },
+  {
+    "list_id": 10,
+    "name": "Marta Kauffman",
+    "role": "Executive Producers",
+    "age": 62,
+    "salary": 329000,
+    "netWorth": "$230 million",
+    "img": "https://www.the-sun.com/wp-content/uploads/sites/6/2020/08/NINTCHDBPICT000603440163.jpg"
+  },
+  {
+    "list_id": 11,
+    "name": "Kevin S. Bright",
+    "role": "Executive Producers",
+    "age": 59,
+    "salary": 195000,
+    "netWorth": "$185 million",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjUxZDZlMTUtMjQ2YS00NGJkLTlmMDYtYzIwNGZjNWU1ZjlhXkEyXkFqcGdeQXVyMjgxMjgwOTk@._V1_.jpg"
+  },
+  {
+    "list_id": 12,
+    "name": "Scott Silveri",
+    "role": "Writer",
+    "age": 66,
+    "salary": 325000,
+    "netWorth": "$270 million",
+    "img": "https://deadline.com/wp-content/uploads/2016/08/scott-silvestri.jpg?w=760"
+  }
+]

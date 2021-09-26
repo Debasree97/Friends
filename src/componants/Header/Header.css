@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+  background-color: whitesmoke;
+  color: black;
+  padding: 5px;
+}
+
+.header img {
+  width: 21%;
+  padding-top: 3px;
+}
+
+.header h2 {
+  margin-top: 5px;
+  line-height: 10px;
+}

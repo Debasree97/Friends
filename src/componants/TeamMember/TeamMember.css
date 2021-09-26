@@ -1,0 +1,16 @@
+.team-member {
+  margin-bottom: 10px;
+}
+
+.text-style {
+  font-weight: bold;
+}
+
+.member-card-img-style {
+  padding: 25px;
+}
+
+.add-to-list-btn {
+  display: flex;
+  justify-content: center;
+}
