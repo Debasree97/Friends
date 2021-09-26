@@ -1,9 +1,5 @@
-.team-member {
-  margin-bottom: 10px;
-}
-
-.text-style {
-  font-weight: bold;
+.card-text-style {
+  font-size: 18px;
 }
 
 .member-card-img-style {

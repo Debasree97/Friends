@@ -1,4 +1,5 @@
 import React from "react";
+import "./SelectMember.css";
 
 const SelectMember = (props) => {
   const { addMember } = props;
@@ -10,10 +11,23 @@ const SelectMember = (props) => {
   }
 
   return (
-    <div>
-      <h2>Total Selected: {addMember.length}</h2>
-      <h3>Total Salary: {totalSalary}</h3>
-      <h3>Added Name: {addedName}</h3>
+    <div className="selectedInfo p-3">
+      <p>
+        <span className="fw-bold">Total Selected: </span> {addMember.length}
+      </p>
+      <hr />
+      <p>
+        <span className="fw-bold">Total Salary: $</span>
+        {totalSalary}
+      </p>
+      <hr />
+      <p className="fw-bold d-block text">Added Name:</p>
+      {addedName.map((newName) => (
+        <ul>
+          <li>{newName}</li>
+        </ul>
+      ))}
+      <p></p>
     </div>
   );
 };

@@ -4,22 +4,21 @@ import TeamMember from "../TeamMember/TeamMember";
 import "./Team.css";
 
 const Team = () => {
+  const [teamMemberInfo, setTeamMemberInfo] = useState([]);
 
-    const [teamMemberInfo, setTeamMemberInfo] = useState([]);
+  const [addMember, setAddMember] = useState([]);
 
-    const [addMember, setAddMember] = useState([]);
-    
   useEffect(() => {
     fetch("./team.JSON")
       .then((res) => res.json())
       .then((data) => setTeamMemberInfo(data));
   }, []);
-    
-    const handleAddToList = (teamMemberInfo) => {
-        const newSelectedMember = [...addMember, teamMemberInfo];
-        setAddMember(newSelectedMember);
-    };
 
+  const handleAddToList = (teamMemberInfo) => {
+    const newSelectedMember = [...addMember, teamMemberInfo];
+    setAddMember(newSelectedMember);
+    };
+    
   return (
     <div className="body-container">
       <div className="team-member-container row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
@@ -32,7 +31,9 @@ const Team = () => {
         ))}
       </div>
       <div className="select-member-container">
-        <SelectMember addMember={addMember}></SelectMember>
+        <SelectMember
+          addMember={addMember}
+        ></SelectMember>
       </div>
     </div>
   );

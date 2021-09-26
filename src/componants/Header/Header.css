@@ -7,10 +7,9 @@
 
 .header img {
   width: 21%;
-  padding-top: 3px;
+  padding: 10px;
 }
 
-.header h2 {
+.header h4 {
   margin-top: 5px;
-  line-height: 10px;
 }

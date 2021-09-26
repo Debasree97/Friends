@@ -1,0 +1,5 @@
+.selectedInfo {
+  position: sticky;
+  top: 180px;
+  background-color: #fabc17;
+}
